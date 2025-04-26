@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "ca740860-aea5-4e4c-8808-80da7855ab31",
+      "name": "luis",
+      "lastname": "lino",
+      "dui": "12345678-0",
+      "correo": "luis@gmail.com"
+    },
+    {
+      "id": "33a7ebfd-759c-4a04-a338-61cad15c5db9",
+      "name": "luis",
+      "lastname": "lino",
+      "dui": "12345678-9",
+      "correo": "luis@gmail.com"
+    },
+    {
+      "id": "b94474b8-1f77-49ad-a181-feaa2e1cd861",
+      "name": "luis",
+      "lastname": "merino",
+      "dui": "202503-0",
+      "correo": "luismerino@gmail.com"
+    }
+  ]
+}
